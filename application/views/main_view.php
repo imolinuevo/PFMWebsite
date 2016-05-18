@@ -9,7 +9,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="description" content="">
         <meta name="author" content="">
-        <title>Neat Cloud</title>
+        <title>Neat Storm</title>
         <!-- Bootstrap Core CSS -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
         <!-- Custom CSS -->
@@ -36,7 +36,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <span class="icon-bar"></span>
                         <span class="icon-bar"></span>
                     </button>
-                    <a class="navbar-brand topnav" href="#">Neat Cloud</a>
+                    <a class="navbar-brand topnav" href="#">Neat Storm</a>
                 </div>
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
@@ -69,7 +69,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="intro-message">
-                            <h1>Neat Cloud</h1>
+                            <h1>Neat Storm</h1>
                             <h3>Create your private free cloud</h3>
                             <hr class="intro-divider">
                             <ul class="list-inline intro-social-buttons">
@@ -121,7 +121,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <div class="clearfix"></div>
                         <h2 class="section-heading">Download the application for free</h2>
                         <p class="lead">This application is under the <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 license</a>, as long as you respect this you are good to go!</p>
-                        <a class="btn btn-default btn-lg">Download Neat Cloud</a><br><br>
+                        <a class="btn btn-default btn-lg">Download Neat Storm</a><br><br>
                         <p>Or check it out on <a>GitHub</a></p>
                     </div>
                     <div class="col-lg-5 col-sm-pull-6  col-sm-6">
@@ -162,7 +162,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
                 <div class="row">
                     <div class="col-lg-6">
-                        <h2>Contact Neat Cloud by:</h2>
+                        <h2>Contact Neat Storm by:</h2>
                     </div>
                     <div class="col-lg-6">
                         <ul class="list-inline banner-social-buttons">
@@ -209,7 +209,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <a href="#contact">Contact</a>
                             </li>
                         </ul>
-                        <p class="copyright text-muted small">Copyright &copy; Neat Cloud 2016. All Rights Reserved</p>
+                        <p class="copyright text-muted small">Copyright &copy; Neat Storm 2016. All Rights Reserved</p>
                     </div>
                 </div>
             </div>
