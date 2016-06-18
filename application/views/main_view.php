@@ -10,6 +10,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <meta name="description" content="">
         <meta name="author" content="">
         <title>Neat Storm</title>
+        <link rel='shortcut icon' href='assets/favicon.ico' type='image/x-icon'/>
         <!-- Bootstrap Core CSS -->
         <link href="assets/css/bootstrap.min.css" rel="stylesheet">
         <!-- Custom CSS -->
@@ -69,6 +70,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                 <div class="row">
                     <div class="col-lg-12">
                         <div class="intro-message">
+                            <img src="assets/img/1_CANDADO VOLUMEN CALADO PAST.png" style="height: 100px; width: 100px;" alt="logo"/>
                             <h1>Neat Storm</h1>
                             <h3>Create your private free cloud</h3>
                             <hr class="intro-divider">
