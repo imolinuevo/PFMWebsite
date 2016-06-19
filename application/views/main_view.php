@@ -79,10 +79,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                     <a href="#" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                                 </li>
                                 <li>
-                                    <a href="#" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                                    <a href="https://github.com/imolinuevo" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                                 </li>
                                 <li>
-                                    <a href="#" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+                                    <a href="https://www.linkedin.com/in/iñigo-molinuevo-37473885" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
                                 </li>
                             </ul>
                         </div>
@@ -123,8 +123,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <div class="clearfix"></div>
                         <h2 class="section-heading">Download the application for free</h2>
                         <p class="lead">This application is under the <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 license</a>, as long as you respect this you are good to go!</p>
-                        <a class="btn btn-default btn-lg">Download Neat Storm</a><br><br>
-                        <p>Or check it out on <a>GitHub</a></p>
+                        <a href="assets/NeatStorm.zip" class="btn btn-default btn-lg">Download Neat Storm</a><br><br>
+                        <p>Or check it out on <a href="https://github.com/imolinuevo/PFMProduct">GitHub</a></p>
                     </div>
                     <div class="col-lg-5 col-sm-pull-6  col-sm-6">
                         <img class="img-responsive" src="assets/img/cc.png" alt="">
@@ -146,7 +146,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                         <div class="clearfix"></div>
                         <h2 class="section-heading">Read the user guide to set up your configuration</h2>
                         <p class="lead">Ready your cloud following a few steps provided by this user friendly installation guide. If you get lost or think this guide can be improved, feel free to contact us!</p>
-                        <a class="btn btn-default btn-lg">Download the User Guide</a>
+                        <a href="assets/User manual.pdf" class="btn btn-default btn-lg">Download the User Guide</a>
                     </div>
                     <div class="col-lg-5 col-lg-offset-2 col-sm-6">
                         <img class="img-responsive" src="assets/img/ipad.png" alt="">
@@ -172,10 +172,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
                                 <a href="#" class="btn btn-default btn-lg"><i class="fa fa-twitter fa-fw"></i> <span class="network-name">Twitter</span></a>
                             </li>
                             <li>
-                                <a href="#" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
+                                <a href="https://github.com/imolinuevo" class="btn btn-default btn-lg"><i class="fa fa-github fa-fw"></i> <span class="network-name">Github</span></a>
                             </li>
                             <li>
-                                <a href="#" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
+                                <a href="https://www.linkedin.com/in/iñigo-molinuevo-37473885" class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-fw"></i> <span class="network-name">Linkedin</span></a>
                             </li>
                         </ul>
                     </div>
